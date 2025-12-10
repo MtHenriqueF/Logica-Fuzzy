@@ -1,6 +1,7 @@
 # Sistema de Inferência Fuzzy para Avaliação de Risco Cardiovascular
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white)
 ![Scikit-Fuzzy](https://img.shields.io/badge/Library-Scikit--Fuzzy-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
